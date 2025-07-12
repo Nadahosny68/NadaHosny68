@@ -9,8 +9,8 @@
   <a href="mailto:hosnynada68@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
-  <a href="https://github.com/Nadahosny68" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" />
+  <a href="https://linktr.ee/nadahosny96" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-181717?style=for-the-badge&logo=Linktree&logoColor=white" height="25" />
   </a>
   <a href="https://www.canva.com/design/DAGUZ6wz9DU/IUU-hhAcY2JXlKPLpVhmog/view?utm_content=DAGUZ6wz9DU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" height="25" />
@@ -26,7 +26,7 @@
 # 👋 Hi, I'm Nada Khalifa (Hosny)
 
 🎯 **Marketing Data Analyst** | **BI Developer** | **Content Strategist**  
-📍 Based in Egypt | 🌍 MENA Region | 🗣 Bilingual: Arabic & English
+📍 Based in Egypt | 🗣 Bilingual: Arabic & English
 
 ---
 
@@ -34,7 +34,6 @@
 
 Strategic and data-oriented professional with 5+ years of experience blending marketing, analytics, and business intelligence. I specialize in transforming data into insights that drive performance, engagement, and measurable results.
 
-- 🔭 Leading Content & SEO at **Silver Pyramids Inc.**
 - ⚙️ Skilled in BI tools, data analytics, content strategy & full-stack marketing
 - 🎓 Background in Analytical Biochemistry and Microchemistry
 - 📈 Passionate about data storytelling, automation, and optimization
@@ -63,6 +62,7 @@ Strategic and data-oriented professional with 5+ years of experience blending ma
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-0089D6?style=flat&logo=visualstudio&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-0089D6?style=flat&logo=visualstudio&logoColor=white)
 
 ### 📊 Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -120,7 +120,7 @@ Legal · Tech · Cosmetics · IT · Medical · Real Estate · F&B · Advocacy ·
 
 📧 **Email:** hosnynada68@gmail.com  
 🔗 **LinkedIn:** [nada-hosny](https://linkedin.com/in/nada-hosny)  
-🧾 **Portfolio:** [Click here](https://www.canva.com/design/DAGUZ6wz9DU/IUU-hhAcY2JXlKPLpVhmog)
+🧾 **Linktree:** [Click here](https://linktr.ee/nadahosny96)
 
 ---
 
