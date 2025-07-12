@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
   <a href="https://linktr.ee/nadahosny96" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-181717?style=for-the-badge&logo=Linktree&logoColor=pink" height="25" />
+    <img src="https://img.shields.io/badge/Linktree-181717?style=for-the-badge&logo=Linktree&logoColor=White" height="25" />
   </a>
   <a href="https://www.canva.com/design/DAGUZ6wz9DU/IUU-hhAcY2JXlKPLpVhmog/view?utm_content=DAGUZ6wz9DU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" height="25" />
