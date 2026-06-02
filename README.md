@@ -44,8 +44,7 @@ Strategic and data-oriented professional with 5+ years of experience blending ma
 
 | 📌 Project | 🔍 Description | ⚒️ Tools |
 |-----------|----------------|----------|
-| [🎓 Aether_V0](https://github.com/Nadahosny68/Aether_V0) | About
-A Data-Driven Environmental Health Awareness Platform | SQL Server · Python · SSIS · Power BI · VS 2022 · Streamlit · Azure SQL Database |
+| [🎓 Aether_V0](https://github.com/Nadahosny68/Aether_V0) | A Data-Driven Environmental Health Awareness Platform | SQL Server · Python · SSIS · Power BI · VS 2022 · Streamlit · Azure SQL Database |
 | [🎓 Online Examination System](https://github.com/Nadahosny68/ITI-Graduation-Project) | A full-stack exam app with SQL procedures, SSRS reports, data flow & dashboard integration | SQL Server · SSRS · SSIS · Power BI · VS 2022 |
 | [📚 Book Store Library](https://github.com/Nadahosny68/OnlineBookStore) | Python menu-driven OOP app with JSON for file-based storage | Python · OOP · JSON |
 | [📈 Customer Churn & Basket Analysis](https://github.com/Nadahosny68/newchurn) | Machine learning Streamlit app with K-Means, Naive Bayes, Apriori | Python · Pandas · Matplotlib · Scikit-learn · Streamlit |
