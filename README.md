@@ -32,7 +32,7 @@
 
 ## 🧠 About Me
 
-Strategic and data-oriented professional with 5+ years of experience blending marketing, analytics, and business intelligence. I specialize in transforming data into insights that drive performance, engagement, and measurable results.
+Strategic and data-oriented professional with 7+ years of experience blending marketing, analytics, and business intelligence. I specialize in transforming data into insights that drive performance, engagement, and measurable results.
 
 - ⚙️ Skilled in BI tools, data analytics, content strategy & full-stack marketing
 - 🎓 Background in Analytical Biochemistry and Microchemistry
